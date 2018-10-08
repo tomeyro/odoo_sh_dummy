@@ -1,0 +1,3 @@
+[submodule "odoo_sh_submodule"]
+	path = odoo_sh_submodule
+	url = git@git.vauxoo.com:tomeyro/odoo_sh_submodule.git
